@@ -1,2 +1,2 @@
 name = raw_input()
-print "hello ",name
+print "hello world! from ",name
